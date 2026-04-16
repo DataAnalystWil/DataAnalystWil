@@ -8,3 +8,7 @@ Demuestro una verdadera pasión para comprender las necesidades de la empresa y 
 
 * Análisis y gestión de datos: Python | SQL | Data Visualization | ETL 
 * Visualización de datos: Pandas | NumPy | Matplotlib | Seaborn
+
+## Habilidades Blandas
+
+Direccion | Administración | Análisis de Datos | Narración de Datos | Resolución de problemas | Administración y gestión de proyectos | Trabajo en equipo | Comunicación efectiva
