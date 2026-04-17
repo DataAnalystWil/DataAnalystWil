@@ -16,3 +16,5 @@ Direccion | Administración | Análisis de Datos | Narración de Datos | Resoluc
 <a href="www.linkedin.com/in/wilma-cruz-74279822">
   <button>Linkedin</button>
 </a>
+
+[Email](mailto:wilma.cruz@outlook.com)
