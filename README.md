@@ -54,3 +54,5 @@ El mayor número de finalización de viajes se concentra en el barrio de Loop, s
 Al comparar los resultados de ambos gráficos, notamos que mientras la oferta (empresas) está concentrada mayormente en una o en pocas, la demanda (destinos) se concentra en puntos geográficos específicos. Esto sugiere que el éxito de una empresa de transporte en esta ciudad depende principalmente de su presencia en los barrios del centro, turísticos, zonas comerciales.
 
 ##### Visualización de datos
+
+![Empresas de viajes y números de viajes](nombre-de-la-imagen.png)
