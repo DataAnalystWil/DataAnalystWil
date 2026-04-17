@@ -20,6 +20,10 @@ Direccion | Administración | Análisis de Datos | Narración de Datos | Resoluc
 [Correo de contacto](mailto:wilma.cruz@outlook.com)
 
 # Proyectos Seleccionados
-## Comprender las preferencias de los pasajeros y el impacto de los factores externos en los viajes
+#### Comprender las preferencias de los pasajeros y el impacto de los factores externos en los viajes
 Analizamos los datos para Zuber, una nueva empresa de viajes compartidos que se está lanzando en Chicago. La tarea consistió en encontrar patrones en la información disponible. El objetivo era comprender las preferencias de los pasajeros y el impacto de los factores externos en los viajes.
 Trabajamos con una base de datos, analizamos los datos de los competidores y probamos una hipótesis sobre el impacto del clima en la frecuencia de los viajes.
+
+##### Herramientas utilizadas
+
+Phyton | Pandas | Seaborn | Matplotlib | BeautifulSoup | SQL | ETL | Data Storyteller
