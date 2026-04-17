@@ -1,4 +1,4 @@
-![Portada](https://github.com/DataAnalystWil/DataAnalystWil/blob/5a44b360dab0cce9602c85482a30bb1cfc2b1d62/Top%2010%20Empresas%20Viajes.png)
+![Portada](https://github.com/DataAnalystWil/DataAnalystWil/blob/848ec98599345783f6bd9a87cdfe1803e5c58857/Banner_Analista%20de%20Datos2.png)
 
 # Acerca de mí
 
