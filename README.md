@@ -65,4 +65,4 @@ Se puede observar el amplio margen de número de viajes de la empresa que encabe
 
 Se puede observar que el flujo principal de pasajeros se mueve hacia los barrios que concentra los lugares de trabajo, hoteles y puntos de interés turístico.
 
-![Empresas de viajes y números de viajes](https://github.com/DataAnalystWil/DataAnalystWil/blob/5a44b360dab0cce9602c85482a30bb1cfc2b1d62/Top%2010%20Empresas%20Viajes.png)
+![Barrios principales](https://github.com/DataAnalystWil/DataAnalystWil/blob/3b6a23fd40701caab6a93354f032e3b87e682086/Top%2010%20Empresas%20Viajes.png)
