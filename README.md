@@ -1,4 +1,4 @@
-![Portada](https://github.com/DataAnalystWil/DataAnalystWil/blob/848ec98599345783f6bd9a87cdfe1803e5c58857/Banner_Analista%20de%20Datos2.png)
+![Portada](https://github.com/DataAnalystWil/DataAnalystWil/blob/37e5d495838fa7900598c29a4bd2a8cc22256965/Banner_Analista%20de%20Datos8.png)
 
 # Acerca de mí
 
