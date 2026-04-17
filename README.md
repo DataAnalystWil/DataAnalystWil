@@ -1,3 +1,5 @@
+![Portada](https://github.com/DataAnalystWil/DataAnalystWil/blob/5a44b360dab0cce9602c85482a30bb1cfc2b1d62/Top%2010%20Empresas%20Viajes.png)
+
 # Acerca de mí
 
 Profesionista en Contaduría Publica y Dirección de Empresas con certificación en Análisis de Datos. Capacidad de Líderazgo, planificación, ejecución, finalización de proyectos y coordinación de equipos multidisciplinarios.
