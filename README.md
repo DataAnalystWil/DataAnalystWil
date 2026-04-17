@@ -39,5 +39,18 @@ Phyton | Pandas | Seaborn | Matplotlib | BeautifulSoup | SQL | ETL | Data Storyt
 * **Análisis Exploratorio de Datos (EDA):** Se analizaron y se identificaron los 10 principales barrios con más finalizaciones de recoriidos.
 * **Prueba de Hipótesis:** Se definió y ejecutó la prueba de hipótesis nula y alternativa con base a si la duración promedio de los viajes desde el Loop hasta el Aeropuerto Internacional O'Hare cambia los sábados lluviosos.
 
+##### Conclusiones y recomendaciones
 
+###### Empresas de viajes
 
+La empresa Flash Cab refleja un claro dominio en el mercado de servicio de taxi, concentra un alto volumen de viajes encabezando la lista de las top 10 de empresas de servicios de viaje. Aunque la enpresa Taxi Afilliation Services se muestra como la segunda, hay un amplio margen entre ambas, prácticamente la ventaja de Flash Cab es el doble de cantidad de viajes de Taxi Afilliation Services. Es interesante, analizar a profundidad que hace diferente Flash Cab para tener ese gran ventaja y dominio en el mercado.
+
+###### Los 10 barrios principales
+
+El mayor número de finalización de viajes se concentra en el barrio de Loop, seguida del barrio River North con un margen muy pequeño y en la tercera posición Streeterville. Investigando encontramos que en El barrio The Loop se encuentra en el centro geográfico y comercial de Chicago, Illinois, delimitado por el río Chicago al norte y oeste, el lago Michigan al este y Ida B. Wells Drive al sur. Es el corazón financiero de la ciudad, famoso por su arquitectura, el sistema de tren elevado y atracciones icónicas como el Millennium Park. Streeterville es un exclusivo y moderno barrio en el área comunitaria Near North Side de Chicago, ubicado junto al lago Michigan. Limita al sur con el río Chicago, al oeste con la Magnificent Mile (Michigan Avenue) y al este con el lago, destacando por sus rascacielos, hoteles de lujo y el Navy Pier. Teniendo esta información, podemos confirmar que en esos barrios de Chicago el flujo principal de pasajeros se mueve hacia lugares de trabajo, hoteles y puntos de interés turístico, lo cual es clave para posicionar conductores en horas pico.
+
+###### Conclusión general
+
+Al comparar los resultados de ambos gráficos, notamos que mientras la oferta (empresas) está concentrada mayormente en una o en pocas, la demanda (destinos) se concentra en puntos geográficos específicos. Esto sugiere que el éxito de una empresa de transporte en esta ciudad depende principalmente de su presencia en los barrios del centro, turísticos, zonas comerciales.
+
+##### Visualización de datos
