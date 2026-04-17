@@ -27,3 +27,17 @@ Trabajamos con una base de datos, analizamos los datos de los competidores y pro
 ##### Herramientas utilizadas
 
 Phyton | Pandas | Seaborn | Matplotlib | BeautifulSoup | SQL | ETL | Data Storyteller
+
+##### Pregunta Clave
+
+* ¿Afecta el clima en la duración de los viajes?
+* ¿Que hace a las empresas de viajes más popular?
+
+##### Metodología
+
+* **Extracción, Transformación y Carga (ETL):** Se recopilaron los datos desde una fuente de HTML, se convirtieron en un formato que se puedan entender y manipuilar y se cargaron en un almacen para ser analizados. Se limpiaronn y estandarizaron para asegurar calidad y consistencia.
+* **Análisis Exploratorio de Datos (EDA):** Se analizaron y se identificaron los 10 principales barrios con más finalizaciones de recoriidos.
+* **Prueba de Hipótesis:** Se definió y ejecutó la prueba de hipótesis nula y alternativa con base a si la duración promedio de los viajes desde el Loop hasta el Aeropuerto Internacional O'Hare cambia los sábados lluviosos.
+
+
+
