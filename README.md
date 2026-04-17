@@ -15,9 +15,9 @@ Demuestro una verdadera pasión para comprender las necesidades de la empresa y 
 
 Direccion | Administración | Análisis de Datos | Narración de Datos | Resolución de problemas | Administración y gestión de proyectos | Trabajo en equipo | Comunicación efectiva
 
-<a href="www.linkedin.com/in/wilma-cruz-74279822">
-  <button>Linkedin</button>
-</a>
+[<img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" />](https://www.linkedin.com/in/wilma-cruz-74279822)
+
+<a href="www.linkedin.com/in/wilma-cruz-74279822"><button>Linkedin</button> </a>
 
 [Correo de contacto](mailto:wilma.cruz@outlook.com)
 
