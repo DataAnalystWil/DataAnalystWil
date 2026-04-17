@@ -17,8 +17,6 @@ Direccion | Administración | Análisis de Datos | Narración de Datos | Resoluc
 
 [<img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" />](https://www.linkedin.com/in/wilma-cruz-74279822)
 
-[<img src="https://img.shields.io/badge/Correo de contacto-0077B5?style=for-the-badge&logo=Correo de contacto&logoColor=white" />](wilma.cruz@outlook.com)
-
 [Correo de contacto](mailto:wilma.cruz@outlook.com)
 
 # Proyectos Seleccionados
