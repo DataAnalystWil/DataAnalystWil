@@ -12,3 +12,7 @@ Demuestro una verdadera pasión para comprender las necesidades de la empresa y 
 ## Habilidades Blandas
 
 Direccion | Administración | Análisis de Datos | Narración de Datos | Resolución de problemas | Administración y gestión de proyectos | Trabajo en equipo | Comunicación efectiva
+
+<a href="www.linkedin.com/in/wilma-cruz-74279822">
+  <button>Linkedin</button>
+</a>
