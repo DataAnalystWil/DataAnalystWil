@@ -55,4 +55,4 @@ Al comparar los resultados de ambos gráficos, notamos que mientras la oferta (e
 
 ##### Visualización de datos
 
-![Empresas de viajes y números de viajes](nombre-de-la-imagen.png)
+![Empresas de viajes y números de viajes](https://github.com/DataAnalystWil/DataAnalystWil/blob/5a44b360dab0cce9602c85482a30bb1cfc2b1d62/Top%2010%20Empresas%20Viajes.png)
