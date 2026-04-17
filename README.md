@@ -17,4 +17,4 @@ Direccion | Administración | Análisis de Datos | Narración de Datos | Resoluc
   <button>Linkedin</button>
 </a>
 
-[Email](mailto:wilma.cruz@outlook.com)
+[Correo de contacto](mailto:wilma.cruz@outlook.com)
