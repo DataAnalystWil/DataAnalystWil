@@ -1,4 +1,4 @@
-[Portada](https://dataanalystwil/Banner_Analista%20de%20Datos8.png)
+![Portada](https://dataanalystwil.github.io/Banner_Analista%20de%20Datos8.png)
 
 # Acerca de mí
 
@@ -57,11 +57,11 @@ Análisis de datos para Zuber, una nueva empresa de viajes compartidos en Chicag
 
 **Gráfico 1: Top 10 empresas de taxis por número de viajes**
 
-![Top 10 Empresas de viajes](https://dataanalystwil/Top%2010%20Empresas%20Viajes.png)
+![Top 10 Empresas de viajes](https://dataanalystwil.github.io/Top%2010%20Empresas%20Viajes.png)
 
 **Gráfico 2: Los 10 barrios principales por promedio de finalizaciones**
 
-![Top 10 Barrios Chicago](https://dataanalystwil/Top%2010%20Barrios%20Chicago.png)
+![Top 10 Barrios Chicago](https://dataanalystwil.github.io/Top%2010%20Barrios%20Chicago.png)
 
 ---
 
