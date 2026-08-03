@@ -1,5 +1,3 @@
-![Portada](https://dataanalystwil.github.io/Banner_Analista%20de%20Datos8.png)
-
 # Acerca de mí
 
 <img src="https://avatars.githubusercontent.com/u/256418780?v=4" width="150" align="right" style="border-radius:50%">
