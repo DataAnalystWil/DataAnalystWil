@@ -4,24 +4,22 @@
 
 <img src="https://avatars.githubusercontent.com/u/256418780?v=4" width="150" align="right" style="border-radius:50%">
 
-Transformo datos en decisiones y proyectos en resultados.
+Combino una sólida experiencia en finanzas, consultoría e implementación de soluciones empresariales con capacidades analíticas en Python, SQL y Business Intelligence para identificar oportunidades de mejora, optimizar procesos y generar información que impulse la toma de decisiones.
 
-Con más de 20 años de experiencia en finanzas, consultoría y análisis de datos, combino una visión estratégica de negocio con herramientas técnicas modernas para ayudar a las organizaciones a tomar mejores decisiones.
+He liderado 9 implementaciones de ERP, gestionado equipos multidisciplinarios de hasta 15 personas, optimizado procesos financieros reduciendo los tiempos de cierre de semanas a 3 días hábiles y desarrollado soluciones analíticas que convierten datos complejos en información accionable para la alta dirección.
 
-He liderado equipos multidisciplinarios en proyectos de transformación, reducido tiempos de cierre financiero de semanas a 3 días hábiles, y desarrollado soluciones de análisis de datos con Python, SQL y Streamlit que hoy están desplegadas en la nube.
-
-Actualmente me especializo en análisis de datos, visualización e inteligencia de negocios, con certificación en proceso de TripleTen.
+Actualmente fortalezco mi perfil técnico con la certificación Data Analyst de TripleTen, buscando aportar como Business Analyst en organizaciones orientadas a la mejora continua y la transformación basada en datos. Disponible en Mérida, Yucatán y modalidad remota.
 
 ---
 
 ## Habilidades Tecnológicas
 
-- Análisis y gestión de datos: Python · SQL · Data Visualization · ETL
-- Visualización: Pandas · NumPy · Matplotlib · Seaborn · Streamlit · Tableau · BeautifulSoup
+- Análisis y gestión de datos: Python · SQL · Power BI · Tableau · ETL · Data Visualization
+- Librerías: Pandas · NumPy · Matplotlib · Seaborn · Streamlit · BeautifulSoup
 
 ## Habilidades Blandas
 
-Dirección · Administración · Narración de Datos · Resolución de problemas · Gestión de proyectos · Trabajo en equipo · Comunicación efectiva
+Dirección · Gestión de Proyectos · Implementación ERP · Narración de Datos · Resolución de problemas · Trabajo en equipo · Comunicación ejecutiva
 
 ---
 
@@ -94,8 +92,3 @@ Entregable de control post-liberación desarrollado como Líder de Proyecto para
 **KPIs:** 26 desarrollos revisados · 28 observaciones de calidad · 10 observaciones de configuración · 10 procesos de negocio.
 
 [![Ver repositorio](https://img.shields.io/badge/Repositorio-181717?style=flat-square&logo=github&logoColor=white)](https://github.com/DataAnalystWil/proyecto-control-calidad-retail)
-[![Ver matriz interactiva](https://img.shields.io/badge/Matriz_Interactiva-0e7c7b?style=flat-square&logo=html5&logoColor=white)](https://dataanalystwil.github.io/proyectos/Matriz_Control_Calidad_Usabilidad_RetailBeauty.html)
-
----
-
-*[Ver portafolio completo](https://dataanalystwil.github.io)*
