@@ -90,3 +90,21 @@ Entregable de control post-liberación desarrollado como Líder de Proyecto para
 **KPIs:** 26 desarrollos revisados · 28 observaciones de calidad · 10 observaciones de configuración · 10 procesos de negocio.
 
 [![Ver repositorio](https://img.shields.io/badge/Repositorio-181717?style=flat-square&logo=github&logoColor=white)](https://github.com/DataAnalystWil/proyecto-control-calidad-retail)
+
+[![Ver matriz interactiva](https://img.shields.io/badge/Matriz_Interactiva-0e7c7b?style=flat-square&logo=html5&logoColor=white)](https://dataanalystwil.github.io/proyectos/Matriz_Control_Calidad_Usabilidad_RetailBeauty.html)
+
+---
+
+## 💳 06 · Predicción de Riesgo de Crédito — Clasificación de Clientes en Default
+
+**Herramientas:** Python · XGBoost · Scikit-learn · Pandas · Matplotlib · Seaborn
+
+Modelo de clasificación para predecir incumplimiento de pago (default) en 30,000 clientes. Se compararon 3 modelos — Regresión Logística, Random Forest y XGBoost — optimizando el umbral de decisión para maximizar la detección de clientes en riesgo.
+
+**Resultado:** AUC-ROC 0.7775 · Recall 82% · Defaults no detectados reducidos un 54% al ajustar el umbral de 0.5 a 0.35.
+
+[![Ver repositorio](https://img.shields.io/badge/Repositorio-181717?style=flat-square&logo=github&logoColor=white)](https://github.com/DataAnalystWil/proyecto-riesgo-credito)
+
+---
+
+*[Ver portafolio completo](https://dataanalystwil.github.io)*
